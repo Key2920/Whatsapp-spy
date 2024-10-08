@@ -4,7 +4,7 @@
  
  
  
- [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+ [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)  <cd href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 
 # Whatsapp-spy
 - [Description](https://github.com/STARK-404/Whatsapp-spy/tree/main#disclaimer)
